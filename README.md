@@ -90,3 +90,25 @@ This allows users to review their past performance and track learning progress.
 8. FastAPI evaluates the responses, calculates the score, and prepares detailed feedback.
 9. The quiz results are stored in MongoDB Atlas.
 10. The frontend displays the final score, explanations, and allows users to view their previous quiz attempts.
+
+## AI Tools Used
+
+This project was developed with the assistance of AI tools to enhance productivity and streamline the development process.
+
+### Claude
+
+Claude was primarily used for:
+
+- Analyzing the project requirements and problem statement.
+- Designing the overall system architecture.
+- Assisting with backend and frontend code generation.
+- Supporting React frontend development and implementation.
+
+### ChatGPT
+
+ChatGPT was primarily used for:
+
+- Debugging and resolving development issues.
+- Explaining errors and suggesting fixes.
+- Assisting with project documentation, including the README.
+- Improving code clarity and development workflow.

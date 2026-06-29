@@ -23,6 +23,10 @@ npm run dev
 # Opens at http://localhost:5173
 ```
 
+## Gemini API
+
+Possibilty that api key might be erased according to Google AI Cloud policy. In that case replace the current api key with your own api key
+
 # System Architecture
 
 The AI Quiz Builder follows a three-tier architecture consisting of a **React frontend**, **FastAPI backend**, **Gemini AI API**, and **MongoDB Atlas**.

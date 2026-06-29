@@ -25,7 +25,7 @@ npm run dev
 
 ## Gemini API
 
-Possibilty that api key might be erased according to Google AI Cloud policy. In that case replace the current api key with your own api key
+Possibilty that api key might be erased according GitGuraddian. In that case replace the current api key with your own api key
 
 # System Architecture
 
